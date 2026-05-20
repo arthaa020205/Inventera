@@ -2,7 +2,7 @@
     <!-- Page Header -->
     <header class="flex flex-col md:flex-row md:items-end justify-between gap-4 mb-12 mt-8 md:mt-0">
         <div>
-            <p class="font-body-lg text-body-lg text-on-surface-variant mb-2">Good morning, Pak Jayusman</p>
+            <p class="font-body-lg text-body-lg text-on-surface-variant mb-2">Good morning, Pak Jomok</p>
             <h2 class="font-display text-display text-on-surface hidden md:block">Store Overview</h2>
             <h2 class="font-headline-lg-mobile text-headline-lg-mobile text-on-surface md:hidden">Store Overview</h2>
         </div>

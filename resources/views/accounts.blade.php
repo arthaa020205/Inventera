@@ -155,3 +155,5 @@
     </section>
     <div class="pb-12"></div>
 </x-layouts.retail>
+
+
