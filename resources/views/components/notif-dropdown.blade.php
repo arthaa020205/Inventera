@@ -21,7 +21,7 @@
         <div class="flex items-center justify-between px-5 py-4"
             style="border-bottom: 1px solid rgba(255,255,255,0.3);">
             <div>
-                <h3 class="font-headline-md text-headline-md text-on-surface">Notifikasi</h3>
+                <h3 class="font-headline-md text-headline-md text-on-surface font-bold">Notifikasi</h3>
                 <p class="font-label-sm text-label-sm text-on-surface-variant mt-0.5">3 belum dibaca</p>
             </div>
             <button class="font-label-sm text-label-sm text-primary hover:opacity-70 transition-opacity">
